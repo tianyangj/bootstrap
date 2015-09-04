@@ -1,13 +1,7 @@
 /*!
-<<<<<<< HEAD
- * Bootstrap v3.2.0 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-=======
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under the MIT license
->>>>>>> gamefly-335
  */
 
 if (typeof jQuery === 'undefined') {
